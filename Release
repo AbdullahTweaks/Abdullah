@@ -1,0 +1,8 @@
+Origin:TweaksAb
+Label:TweaksAb
+suite:stable
+Version:1.0
+Codename:ios
+Architectures:iphoeos-arm
+Componetns:main
+Description: new Source for Tweaks
