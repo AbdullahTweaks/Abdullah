@@ -1,0 +1,10 @@
+Package: com.cutecut.hacking
+Name: tweakcute
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: abdullah
+Author: abdullah
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 104
